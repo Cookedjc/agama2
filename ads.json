@@ -1,1 +1,15 @@
-{}
+{
+    "DavinDemo": {
+        "gh_author": "Cookedjc",
+        "gh_repo_path": "agama2",
+        "project_name": "DavinDemo",
+        "version": "0.0.1",
+        "author": "Cookedjc",
+        "author_website": "https://github.com/Cookedjc/agama2",
+        "github_uri": "https://github.com/Cookedjc/agama2",
+        "project_description": "NewFlowwithMFA",
+        "license": "MIT",
+        "last_updated": "1678818428550",
+        "project_type": "community"
+    }
+}
