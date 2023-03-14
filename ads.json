@@ -11,5 +11,18 @@
         "license": "MIT",
         "last_updated": "1678818428550",
         "project_type": "community"
+    },
+    "DavinDemo2": {
+        "gh_author": "Cookedjc",
+        "gh_repo_path": "agama2",
+        "project_name": "DavinDemo2",
+        "version": "0.0.1",
+        "author": "Cookedjc",
+        "author_website": "https://github.com/Cookedjc/agama2",
+        "github_uri": "https://github.com/Cookedjc/agama2",
+        "project_description": "second demo",
+        "license": "MIT",
+        "last_updated": "1678818786386",
+        "project_type": "community"
     }
 }
