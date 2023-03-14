@@ -1,2 +1,6 @@
 Flow info.flexdemo.mfa
      Basepath "MFA1"
+MFAenrollmenttrue = RRF "enroll.MFA" args.username args.mfatype
+MFA.enrolltrue = RFAC https://deduce.enrollment.com
+Log "@ " __________
+Finish __________
